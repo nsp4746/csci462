@@ -1,6 +1,7 @@
 ''' 
 @author: Nikhil Patil
-@description: hw01 CSCI-462'''
+@description: hw01 CSCI-462
+'''
 
 def shift_cipher():
     text = "nybfxymjgjxytkynrjxnybfxymjbtwxytkynrjxnybfxymjfljtkbnxitrnybfxymjfljtkkttqnxmsjxx"
